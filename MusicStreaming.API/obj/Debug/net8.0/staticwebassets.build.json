@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sA+L+7nV4yw1HdfxuTILdIifwmsMF63jLUIXEVAmpRg=",
+  "Source": "MusicStreaming.API",
+  "BasePath": "_content/MusicStreaming.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

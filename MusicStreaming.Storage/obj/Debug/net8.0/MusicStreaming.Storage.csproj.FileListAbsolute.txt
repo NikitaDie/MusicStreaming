@@ -1,0 +1,17 @@
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\bin\Debug\net8.0\MusicStreaming.Storage.deps.json
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\bin\Debug\net8.0\MusicStreaming.Storage.runtimeconfig.json
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\bin\Debug\net8.0\MusicStreaming.Storage.dll
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\bin\Debug\net8.0\MusicStreaming.Storage.pdb
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\bin\Debug\net8.0\MusicStreaming.Core.dll
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\bin\Debug\net8.0\MusicStreaming.Core.pdb
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\MusicStreaming.Storage.csproj.AssemblyReference.cache
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\MusicStreaming.Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\MusicStreaming.Storage.AssemblyInfoInputs.cache
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\MusicStreaming.Storage.AssemblyInfo.cs
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\MusicStreaming.Storage.csproj.CoreCompileInputs.cache
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\MusicStr.26F00EFD.Up2Date
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\MusicStreaming.Storage.dll
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\refint\MusicStreaming.Storage.dll
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\MusicStreaming.Storage.pdb
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\MusicStreaming.Storage.genruntimeconfig.cache
+D:\Programmiring\MusicStreaming\MusicStreaming.Storage\obj\Debug\net8.0\ref\MusicStreaming.Storage.dll

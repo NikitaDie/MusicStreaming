@@ -1,0 +1,26 @@
+﻿services:
+  musicstreaming.api:
+    image: musicstreaming.api
+    build:
+      context: .
+      dockerfile: MusicStreaming.API/Dockerfile
+    ports:
+      - "5000:80"
+    depends_on:
+      - postgresdb
+    environment:
+      - ConnectionStrings__DefaultConnection=Host=postgresdb;Database=music_streaming_db;Username=user;Password=password
+
+  postgresdb:
+    image: postgres:latest
+    environment:
+      POSTGRES_DB: music_streaming_db
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+
+volumes:
+  postgres-data:
